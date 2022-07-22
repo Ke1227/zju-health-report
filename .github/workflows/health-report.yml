@@ -14,7 +14,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - username: ZJU_USERNAME #wkx
+          - username: ZJU_USERNAME #Ke HU
             password: ZJU_PASSWORD
             dingtalk_token: DINGTALK_TOKEN
 
